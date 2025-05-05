@@ -1,0 +1,3 @@
+/home/sidharth/Desktop/Projects/CameraApp/client/build/CMakeFiles/client.dir
+/home/sidharth/Desktop/Projects/CameraApp/client/build/CMakeFiles/edit_cache.dir
+/home/sidharth/Desktop/Projects/CameraApp/client/build/CMakeFiles/rebuild_cache.dir
